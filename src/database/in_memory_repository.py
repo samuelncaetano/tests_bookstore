@@ -1,4 +1,4 @@
-from bookstore.entities.book import Book
+from src.entities.book import Book
 
 
 class InMemoryRepository:
